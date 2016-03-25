@@ -1,0 +1,24 @@
+{
+  "name": "example-nodejs-challenge",
+  "version": "1.0.0",
+  "description": "In order to be considered for the NodeJS position, you must complete the following steps.",
+  "main": "source/server/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhaville/example-nodejs-challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhaville/example-nodejs-challenge/issues"
+  },
+  "homepage": "https://github.com/jhaville/example-nodejs-challenge#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "request": "^2.69.0"
+  }
+}
